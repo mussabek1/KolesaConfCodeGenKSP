@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "KolesaConfCodeGenKSP"
-include ':app'
+include(":app")
